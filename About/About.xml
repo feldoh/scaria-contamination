@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>ScariaContamination</name>
-    <author>Taggerung</author>
+    <name>Scaria Contamination</name>
+    <author>Riiswa,Taggerung</author>
     <supportedVersions>
         <li>1.5</li>
     </supportedVersions>
-    <packageId>Taggerung.ScariaContamination</packageId>
+    <packageId>riiswa.scariacontamination</packageId>
     <description>Adds a chance for Scaria to be spread after the fatal bite of a contaminated creature.</description>
     <url>https://steamcommunity.com/id/Taggerung/myworkshopfiles/?appid=294100</url>
 	<modDependencies>
